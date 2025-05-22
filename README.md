@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Lavarel
-- 📫 How to reach me: @JKhizanishvili on Twitter
+- 🛠️🌐 Full Stack Web Developer
+- 📫 How to reach me: [@JKhizanishvili](https://www.linkedin.com/in/jaba-khizanishvili/)
 
 
 
